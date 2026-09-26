@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <rect width="100" height="100" rx="22" fill="#353956"/>
+  <!-- Mortarboard Hat -->
+  <polygon points="50,18 84,32 50,46 16,32" fill="#8B95C9"/>
+  <path d="M 28 36 C 28 36 35 48 50 48 C 65 48 72 36 72 36 L 72 42 C 72 42 65 54 50 54 C 35 54 28 42 28 42 Z" fill="#8B95C9"/>
+  <path d="M 68 32 L 78 45 L 78 52" stroke="#8B95C9" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="78" cy="54" r="3.5" fill="#8B95C9"/>
+  <circle cx="50" cy="32" r="3" fill="#353956"/>
+
+  <!-- Crescent Orbit Ring -->
+  <path d="M 42 45 C 23 50 10 67 12 84 C 13 94 20 102 32 106 C 20 99 13 89 13 78 C 13 63 24 51 42 45 Z" fill="#8B95C9"/>
+</svg>
